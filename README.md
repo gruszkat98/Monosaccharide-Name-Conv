@@ -6,4 +6,4 @@ This program draws and interprets monosaccharides written in a specific naming c
 
 You can also import sugars.py file directly, and inside there is a Sugar class, and functions like "interpretSugar(sugar)" and "interpretName(sugarname)" that respectively, create a string variable that represents a name of a sugar instance, or given a name instantiate a sugar. 
 
-Keep in mind! The names are not standard names, but rather they are built accordingly to a custom naming convention
+Keep in mind! The names are not standard names, but rather they are built accordingly to a custom naming convention. Monosaccharides.pdf is a presentation that fully explains my custom naming convention
